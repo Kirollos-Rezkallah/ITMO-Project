@@ -1,4 +1,4 @@
-#circle {
+.circle {
     display: inline-block;
     background: black;
     border-radius: 50%;
@@ -10,4 +10,20 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.circle-bg {
+    color: red;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+}
+
+.profile-icon .profile-bg {
+    position: relative;
+    right: 25px;
+    background: white;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
 }
