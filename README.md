@@ -35,7 +35,7 @@ This project is a web form implementation for [University ITMO](https://www.itmo
 - Bootstrap: Utilized for styling and responsiveness.
 
 ## How to Run
-1. Clone the repository: `git clone https://github.com/yourusername/itmo-web-form.git`
+1. Clone the repository: `git clone git@github.com:Kirollos-Rezkallah/ITMO-Project.git`
 2. Open `index.html` in a web browser.
 
 ## Acknowledgments
